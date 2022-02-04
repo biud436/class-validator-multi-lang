@@ -10,40 +10,40 @@ msgstr ""
 "Project-Id-Version: class-validator\n"
 "Language-Team: Korean\n"
 "Language: ko_KR\n"
-"PO-Revision-Date: 2021-12-27 18:04\n"
+"PO-Revision-Date: 2022-02-04 17:22\n"
 
 #: src/decorator/object/IsInstance.ts:41
 msgid "$IS_INSTANCE decorator expects and object as value, but got falsy value."
-msgstr ""
+msgstr "$IS_INSTANCE decorator 가 예상한 값은 object 지만, 다른 값을 얻었습니다."
 
 #: src/decorator/date/MaxDate.ts:25
 #: src/decorator/date/MinDate.ts:25
 msgid "$property is $constraint1"
-msgstr ""
+msgstr "$property 은/는 $constraint1"
 
 #: src/decorator/string/IsDecimal.ts:32
 msgid "$property is not a valid decimal number."
-msgstr ""
+msgstr "$property 는 유효한 십진수가 아닙니다."
 
 #: src/decorator/string/IsBIC.ts:27
 msgid "$property must be a BIC or SWIFT code"
-msgstr ""
+msgstr "$property 는 BIC 또는 SWIFT 코드여야 합니다."
 
 #: src/decorator/string/IsBooleanString.ts:27
 msgid "$property must be a boolean string"
-msgstr ""
+msgstr "$property 는 boolean string 값이여야 합니다."
 
 #: src/decorator/typechecker/IsBoolean.ts:24
 msgid "$property must be a boolean value"
-msgstr ""
+msgstr "$property 는 boolean 값이여야 합니다."
 
 #: src/decorator/string/IsBtcAddress.ts:27
 msgid "$property must be a BTC address"
-msgstr ""
+msgstr "$property 는 BTC 주소여야 합니다."
 
 #: src/decorator/string/IsCreditCard.ts:27
 msgid "$property must be a credit card"
-msgstr ""
+msgstr "$property 는 신용카드여야 합니다."
 
 #: src/decorator/string/IsCurrency.ts:32
 msgid "$property must be a currency"
