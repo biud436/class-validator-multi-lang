@@ -10,7 +10,7 @@ msgstr ""
 "Project-Id-Version: class-validator\n"
 "Language-Team: Korean\n"
 "Language: ko_KR\n"
-"PO-Revision-Date: 2022-02-04 17:22\n"
+"PO-Revision-Date: 2022-02-04 18:24\n"
 
 #: src/decorator/object/IsInstance.ts:41
 msgid "$IS_INSTANCE decorator expects and object as value, but got falsy value."
@@ -47,172 +47,172 @@ msgstr "$property 는 신용카드여야 합니다."
 
 #: src/decorator/string/IsCurrency.ts:32
 msgid "$property must be a currency"
-msgstr ""
+msgstr "$property 는 currency 여야 합니다."
 
 #: src/decorator/string/IsDataURI.ts:27
 msgid "$property must be a data uri format"
-msgstr ""
+msgstr "$property 는 data uri 형식이여야 합니다."
 
 #: src/decorator/typechecker/IsDate.ts:24
 msgid "$property must be a Date instance"
-msgstr ""
+msgstr "$property 는 Date 인스턴스여야 합니다."
 
 #: src/decorator/string/IsFirebasePushId.ts:27
 msgid "$property must be a Firebase Push Id"
-msgstr ""
+msgstr "$property 는 Firebase Push Id 여야 합니다."
 
 #: src/decorator/string/IsHash.ts:31
 msgid "$property must be a hash of type $constraint1"
-msgstr ""
+msgstr "$property 는 $constraint1 유형의 해시여야 합니다."
 
 #: src/decorator/string/IsHexColor.ts:27
 msgid "$property must be a hexadecimal color"
-msgstr ""
+msgstr "$property 는 16진수 색상이여야 합니다."
 
 #: src/decorator/string/IsHexadecimal.ts:27
 msgid "$property must be a hexadecimal number"
-msgstr ""
+msgstr "$property 는 16진수여야 합니다."
 
 #: src/decorator/string/IsHSL.ts:29
 msgid "$property must be a HSL color"
-msgstr ""
+msgstr "$property 는 HSL 색상이여야 합니다."
 
 #: src/decorator/string/IsIdentityCard.ts:36
 msgid "$property must be a identity card number"
-msgstr ""
+msgstr "$property 는 신분증 번호여야 합니다."
 
 #: src/decorator/string/IsISSN.ts:28
 msgid "$property must be a ISSN"
-msgstr ""
+msgstr "$property 는 ISSN 여야 합니다."
 
 #: src/decorator/string/IsJSON.ts:27
 msgid "$property must be a json string"
-msgstr ""
+msgstr "$property 는 json string 이여야 합니다."
 
 #: src/decorator/string/IsJWT.ts:27
 msgid "$property must be a jwt string"
-msgstr ""
+msgstr "$property 는 jwt string 여야 합니다."
 
 #: src/decorator/common/IsLatitude.ts:25
 msgid "$property must be a latitude string or number"
-msgstr ""
+msgstr "$property 는 위도 string/number 여야 합니다."
 
 #: src/decorator/common/IsLatLong.ts:25
 msgid "$property must be a latitude,longitude string"
-msgstr ""
+msgstr "$property 는 위도, 경도 string 이여야 합니다."
 
 #: src/decorator/common/IsLongitude.ts:25
 msgid "$property must be a longitude string or number"
-msgstr ""
+msgstr "$property 는 경도 string/number 여야 합니다."
 
 #: src/decorator/string/IsLowercase.ts:27
 msgid "$property must be a lowercase string"
-msgstr ""
+msgstr "$property 는 소문자여야 합니다."
 
 #: src/decorator/string/IsMacAddress.ts:42
 msgid "$property must be a MAC Address"
-msgstr ""
+msgstr "$property 는 MAC Address 여야 합니다"
 
 #: src/decorator/string/IsMongoId.ts:27
 msgid "$property must be a mongodb id"
-msgstr ""
+msgstr "$property 는 mongodb id 여야 합니다."
 
 #: src/decorator/number/IsNegative.ts:24
 msgid "$property must be a negative number"
-msgstr ""
+msgstr "$property 는 음수여야 합니다."
 
 #: src/decorator/object/IsNotEmptyObject.ts:45
 msgid "$property must be a non-empty object"
-msgstr ""
+msgstr "$property 는 비어있지 않은 object 여야 합니다."
 
 #: src/decorator/typechecker/IsNumber.ts:56
 msgid "$property must be a number conforming to the specified constraints"
-msgstr ""
+msgstr "$property 는 지정된 제약 조건에 맞는 숫자여야 합니다."
 
 #: src/decorator/string/IsNumberString.ts:32
 msgid "$property must be a number string"
-msgstr ""
+msgstr "$property 는 number string 여야 합니다."
 
 #: src/decorator/string/IsMobilePhone.ts:53
 msgid "$property must be a phone number"
-msgstr ""
+msgstr "$property 는 전화번호여야 합니다."
 
 #: src/decorator/string/IsPort.ts:24
 msgid "$property must be a port"
-msgstr ""
+msgstr "$property 는 port 여야 합니다."
 
 #: src/decorator/number/IsPositive.ts:24
 msgid "$property must be a positive number"
-msgstr ""
+msgstr "$property 는 양수여야 합니다."
 
 #: src/decorator/string/IsPostalCode.ts:34
 msgid "$property must be a postal code"
-msgstr ""
+msgstr "$property 는 우편번호여야 합니다."
 
 #: src/decorator/string/IsSemVer.ts:27
 msgid "$property must be a Semantic Versioning Specification"
-msgstr ""
+msgstr "$property 는 Semantic Versioning Specification 여야 합니다."
 
 #: src/decorator/typechecker/IsString.ts:24
 msgid "$property must be a string"
-msgstr ""
+msgstr "$property 는 string 여야 합니다."
 
 #: src/decorator/string/IsUUID.ts:29
 msgid "$property must be a UUID"
-msgstr ""
+msgstr "$property 는 UUID 여야 합니다."
 
 #: src/decorator/string/IsFQDN.ts:29
 msgid "$property must be a valid domain name"
-msgstr ""
+msgstr "$property 는 유효한 domain name 여야 합니다."
 
 #: src/decorator/typechecker/IsEnum.ts:26
 msgid "$property must be a valid enum value"
-msgstr ""
+msgstr "$property 는 유효한 enum 값이여야 합니다."
 
 #: src/decorator/string/IsDateString.ts:30
 #: src/decorator/string/IsISO8601.ts:34
 msgid "$property must be a valid ISO 8601 date string"
-msgstr ""
+msgstr "$property 유효한 ISO 8601 date string 여야 합니다."
 
 #: src/decorator/string/IsISO31661Alpha2.ts:25
 msgid "$property must be a valid ISO31661 Alpha2 code"
-msgstr ""
+msgstr "$property 는 유효한 ISO31661 Alpha2 code 여야 합니다."
 
 #: src/decorator/string/IsISO31661Alpha3.ts:25
 msgid "$property must be a valid ISO31661 Alpha3 code"
-msgstr ""
+msgstr "$property 는 유효한 ISO31661 Alpha3 code 여야 합니다."
 
 #: src/decorator/string/IsPhoneNumber.ts:42
 msgid "$property must be a valid phone number"
-msgstr ""
+msgstr "$property 는 유효한 전화번호여야 합니다."
 
 #: src/decorator/string/IsMilitaryTime.ts:29
 msgid "$property must be a valid representation of military time in the format HH:MM"
-msgstr ""
+msgstr "$property 는 HH:MM 형식의 유효한 military time 표현이여야 합니다."
 
 #: src/decorator/typechecker/IsArray.ts:24
 msgid "$property must be an array"
-msgstr ""
+msgstr "$property 는 array 여야 합니다."
 
 #: src/decorator/string/IsEAN.ts:27
 msgid "$property must be an EAN (European Article Number)"
-msgstr ""
+msgstr "$property 는 EAN (European Article Number) 여야 합니다."
 
 #: src/decorator/string/IsEmail.ts:32
 msgid "$property must be an email"
-msgstr ""
+msgstr "$property 는 이메일이여야 합니다."
 
 #: src/decorator/string/IsEthereumAddress.ts:27
 msgid "$property must be an Ethereum address"
-msgstr ""
+msgstr "$property 는 Ethereum address 여야 합니다."
 
 #: src/decorator/string/IsIBAN.ts:27
 msgid "$property must be an IBAN"
-msgstr ""
+msgstr "$property 는 IBAN 여야 합니다."
 
 #: src/decorator/object/IsInstance.ts:33
 msgid "$property must be an instance of $constraint1name"
-msgstr ""
+msgstr "$property 는 $constraint1name 의 인스턴스여야 합니다."
 
 #: src/decorator/typechecker/IsInt.ts:24
 msgid "$property must be an integer number"
