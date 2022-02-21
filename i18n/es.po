@@ -10,11 +10,11 @@ msgstr ""
 "Project-Id-Version: class-validator\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2021-12-27 18:04\n"
+"PO-Revision-Date: 2022-02-21 04:15\n"
 
 #: src/decorator/object/IsInstance.ts:41
 msgid "$IS_INSTANCE decorator expects and object as value, but got falsy value."
-msgstr "El decorador $IS_INSTANCE espera y el objeto como valor, pero tiene un valor falso."
+msgstr "El decorador $IS_INSTANCE espera un objeto como valor, pero obtuvo un valor falso."
 
 #: src/decorator/date/MaxDate.ts:25
 #: src/decorator/date/MinDate.ts:25
@@ -51,11 +51,11 @@ msgstr "$property debe ser una moneda"
 
 #: src/decorator/string/IsDataURI.ts:27
 msgid "$property must be a data uri format"
-msgstr "$property debe ser un formato uri de datos"
+msgstr "$property debe tener un formato uri de datos"
 
 #: src/decorator/typechecker/IsDate.ts:24
 msgid "$property must be a Date instance"
-msgstr "$property debe ser una instancia de fecha"
+msgstr "$property debe ser una instancia de Date"
 
 #: src/decorator/string/IsFirebasePushId.ts:27
 msgid "$property must be a Firebase Push Id"
@@ -99,7 +99,7 @@ msgstr "$property debe ser una cadena o número de latitud"
 
 #: src/decorator/common/IsLatLong.ts:25
 msgid "$property must be a latitude,longitude string"
-msgstr "$property debe ser una latitud,longitud"
+msgstr "$property debe ser una latitud o longitud"
 
 #: src/decorator/common/IsLongitude.ts:25
 msgid "$property must be a longitude string or number"
@@ -172,7 +172,7 @@ msgstr "$property debe ser un valor de enum válido"
 #: src/decorator/string/IsDateString.ts:30
 #: src/decorator/string/IsISO8601.ts:34
 msgid "$property must be a valid ISO 8601 date string"
-msgstr "$property debe ser una fecha válida ISO 8601"
+msgstr "$property debe ser una fecha ISO 8601 válida"
 
 #: src/decorator/string/IsISO31661Alpha2.ts:25
 msgid "$property must be a valid ISO31661 Alpha2 code"
